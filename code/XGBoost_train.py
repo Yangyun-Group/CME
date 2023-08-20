@@ -14,7 +14,7 @@
 Time    :   2023/01/30 19:28:38
 Author  :   YangYun Group
 Version :   1.0
-Contact :   yangyun@nju.edu.cn
+Contact :   yangyun1073@163.com
 """
 
 import dataset
